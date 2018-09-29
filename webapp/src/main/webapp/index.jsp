@@ -1,4 +1,2 @@
-hello ,jenkins
-this is prakash
-
-modified by Pravin for auto build
+Hello...
+This is my first CICD pipeline demo.
